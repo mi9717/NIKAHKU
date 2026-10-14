@@ -1,0 +1,6 @@
+{
+  "name": "NikahKu - Undangan Pernikahan Digital",
+  "description": "Aplikasi demo undangan pernikahan digital elegan, modern, dan romantis bernuansa ivory, sage green, dan aksen gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

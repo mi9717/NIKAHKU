@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana terperinci sentralisasi konfigurasi data undangan digital NikahKu ke dalam berkas konfigurasi terpusat (weddingConfig.ts). Mencakup struktur tipe TypeScript (interface), pemetaan data mempelai, foto sampul, foto galeri, rincian acara, serta strategi integrasi ke komponen tanpa merusak visual atau fitur interaktif.",
+  "updatedAt": "2026-10-14T02:24:58.071975152Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
